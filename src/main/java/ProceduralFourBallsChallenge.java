@@ -17,9 +17,6 @@ public class ProceduralFourBallsChallenge extends PApplet{
         size(WIDTH, HEIGHT);
     }
 
-    @Override
-    public void setup() {
-    }
 
     @Override
     public void draw() {

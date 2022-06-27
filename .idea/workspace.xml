@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb41eea5-3a1e-4a49-827f-567dc6b93b95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProceduralFourBallsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPsFourBallsChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProceduralFourBallsChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProceduralFourBallsChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ProceduralFourBallsChallenge">
+  <component name="RunManager" selected="Application.OOPsFourBallsChallenge">
+    <configuration name="OOPsFourBallsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPsFourBallsChallenge" />
+      <module name="Processing.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProceduralFourBallsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProceduralFourBallsChallenge" />
       <module name="Processing.main" />
@@ -53,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPsFourBallsChallenge" />
         <item itemvalue="Application.ProceduralFourBallsChallenge" />
         <item itemvalue="Application.TryProcessing" />
       </list>
